@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(6, 95, 76);
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+
+}
+
+div a{
+    color: white;
+    font-size: 38px;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+    text-decoration: double;
+    font-weight: bold;
+}
+
+small{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
